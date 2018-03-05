@@ -1,0 +1,3 @@
+为了上传方便，我把Project2中image文件夹下的所有图片删去了，如果要能正确运行py文件，应该将第一次作业的image数据集（5613张图片）拷贝到Project2中image文件夹下
+在Project2文件夹中，运行GetFeatures.py文件，即可得到test文件夹中所有图片的top10近邻。
+结果按作业要求的格式输入在result.txt文件中。
